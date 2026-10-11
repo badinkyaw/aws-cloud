@@ -48,7 +48,7 @@ aws iam get-user
 ### 5. Check User Attached Policies
 
 ```bash
-aws iam list-attached-user-policies --user-name t.htike.oo
+aws iam list-attached-user-policies --user-name badinkyaw
 ```
 
 ### 6. Create IAM user
